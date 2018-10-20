@@ -1,0 +1,67 @@
+Abel Allonzo,Director of HumanResources, is exploring the causes of employee absenteeismat Batesville Bottling during the last operating year (Janurary 1,1999 through December 31,1999). For this study the set of all employees who worked at Batesville Bottling during the last operating year is ___________.
+a) a paramerter 
+b)a sample 
+c)the population 
+d) the tatistic 
+e) the frame 
+
+A question in asurvey of a microcomputer users asked: " Which operating sytem do you use most often: a.Apple OS 7,b. MS DOS, c. MS Windows 95, d. UNIX." The measurement level for this question is ________.
+a) nominal level 
+b) ordinal level
+c) interval level 
+d) ratio level 
+e) relative level 
+
+The number of phone calls arriving at a switchboard each hour has been recorded and the following frequency distribution has been developed. 
+	Class Interval  Frequency 
+	20-under 40	30
+	40-under 60	45
+	60-under 80	80
+	80-under 100	45
+What is the relative frequency of the second class? 
+a)0.455
+b) 0.900
+c) 0.225
+d) 0.750
+e) 0.725
+
+Consider the following stem and leaf plot: 
+	Stem 	Leaf
+	1	0,2,5,7
+	2	2,3,4,8
+	3	0,4,6,6,9
+	4	5,8,8,9
+	5	2,7,8
+Suppose that a frequency distribution was developed from this, and there were 5 classe (10-under 20,20-under 30,etc.). What was the highest number in the data set?
+a) 50
+b) 58
+c) 59
+d) 78
+e) 98
+
+A person ha decided to construct a frequency distribution for a set of data containing 60 numbers. The lowest number is 23 and the highest number is 68. If 5 classes are used, the class width should be approximately ___________.
+a) 4
+b) 12
+c) 8
+d) 5
+e) 9
+
+Abel Alonzo, Director of Human Resources, is exploring employee absenteeism at the Harrison Haulers Plant during the last operating year. A review of all personnel records indicated that absences ranged from zero to twenty-nine days per employee. The following class intervals were proposed for a frequency distribution of absences.
+	Absences		Number of Employees
+	(Days)
+	0-under 5			-
+	5-under 10			-
+	10-under 15			-
+	20-under 25			-
+	25-under 30			-
+
+WHich of the following represents a problem with this set of intervals? 
+a) There are too few intervals.
+b) Some numbers between 0 and 29, inclusively, would not fall into any interval. 
+c) The first and second interval overlaps.
+d) There are too many intervals. 
+e) The second and the third interval overlap. 
+
+
+
+
