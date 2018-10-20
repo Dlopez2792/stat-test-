@@ -21,7 +21,7 @@ int main()
 { 
 //
 	int correct_ans_count = 0;
-	for(int i=0; i<num_qsts; i++)
+	for(int i=0; i<num_qsts; i++)// increment counter- starting from 0 this counts up by 1 until it hits the number of questions you set
 	{
 		do{
 			cout<<"\nAbel Allonzo, Director of HumanResources, is exploring the causes of employee absenteeism at Batesville Bottling during the last operating year (Janurary 1,1999 through December 31,1999). For this study the set of all employees who worked at Batesville Bottling during the last operating year is ___________. \n\n "
@@ -31,7 +31,7 @@ int main()
 				<<" d) the statistic\n"
 				<<" e) the frame\n\n"
 				<<" Select answer\n";
-			cin>> user_answer[i];
+			cin>> user_answer[i];// class=character, 
 			
 			cout<<"\nA question in a survey of a microcomputer users asked:  Which operating sytem do you use most often: a.Apple OS 7,b. MS DOS, c. MS Windows 95, d. UNIX. The measurement level for this question is ________.\n\n"
 				<<" a) nominal level\n"
