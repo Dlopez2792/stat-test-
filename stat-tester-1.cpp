@@ -23,7 +23,7 @@ int main()
 	int correct_ans_count = 0;
 	for(int i=0; i<num_qsts; i++)// increment counter- starting from 0 this counts up by 1 until it hits the number of questions you set
 	{
-		do{
+		do {
 			cout<<"\nAbel Allonzo, Director of HumanResources, is exploring the causes of employee absenteeism at Batesville Bottling during the last operating year (Janurary 1,1999 through December 31,1999). For this study the set of all employees who worked at Batesville Bottling during the last operating year is ___________. \n\n "
 				<<" a) a paramerter\n"
 				<<" b) a sample\n" 
@@ -41,7 +41,7 @@ int main()
 				<<" e) relative level\n"
 				<<" Select answer\n";
 			cin>> user_answer[i];
-		  }while(!validate_input(user_answer[i]));//validate input is assigned to character which is the user answer with the increment i to stop the loop once it hits num questions
+		  } while(!validate_input(user_answer[i]));//validate input is assigned to character which is the user answer with the increment i to stop the loop once it hits num questions
 	}
 	
 	correct_ans_count= check_answers();
@@ -74,7 +74,7 @@ void get_incorrect_answ_qst()
 {
 
 	int counter = 0; //index of the incorrectly answered qsts array >> looks like this : int INCORRECT_QST[num_qsts];
-	for( int i=0; i< num_qsts; i++) 
+	for(int i=0; i< num_qsts; i++) 
 	{
 		if(correct_answer[i] != user_answer[i])
 		{
